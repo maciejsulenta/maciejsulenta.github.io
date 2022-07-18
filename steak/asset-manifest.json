@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d99056c.css",
+    "main.js": "/static/js/main.680967f3.js",
+    "static/js/787.7b1eba66.chunk.js": "/static/js/787.7b1eba66.chunk.js",
+    "static/media/dana-devolk-x2cNcfz_xXU-unsplash.png": "/static/media/dana-devolk-x2cNcfz_xXU-unsplash.63c7f3982421c00225eb.png",
+    "static/media/Bitmapv.png": "/static/media/Bitmapv.0f83460573d7dfb145ae.png",
+    "static/media/Bitmapv1.jpg": "/static/media/Bitmapv1.0098e4ea7367d6fcef24.jpg",
+    "static/media/sofiapro.otf": "/static/media/sofiapro.7978d11b00722a17ccfa.otf",
+    "static/media/Bitmapv2.jpg": "/static/media/Bitmapv2.e275e1d92f062d23ba4d.jpg",
+    "static/media/aplikacja.png": "/static/media/aplikacja.1f15850641f6ca1c6d37.png",
+    "static/media/huawei-app-badge-9757fa 2.svg": "/static/media/huawei-app-badge-9757fa 2.7e74de40488b9e228f00549c175aa795.svg",
+    "static/media/koszyk.svg": "/static/media/koszyk.dbdcb44cabe8aa0208447576659ba6a2.svg",
+    "static/media/App_Store_(iOS).svg": "/static/media/App_Store_(iOS).841e7412223e3be519dc41a2c3b63642.svg",
+    "static/media/Group4.svg": "/static/media/Group4.e73eace3afb5f95778f8e337ca4efe40.svg",
+    "static/media/mojekonto.svg": "/static/media/mojekonto.514f0d6346417de707a260945c52d989.svg",
+    "static/media/zamow_ikona.svg": "/static/media/zamow_ikona.12330143d2efc040b5a193f351c5345d.svg",
+    "index.html": "/index.html",
+    "main.6d99056c.css.map": "/static/css/main.6d99056c.css.map",
+    "main.680967f3.js.map": "/static/js/main.680967f3.js.map",
+    "787.7b1eba66.chunk.js.map": "/static/js/787.7b1eba66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d99056c.css",
+    "static/js/main.680967f3.js"
+  ]
+}
